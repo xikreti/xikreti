@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thales%20Cardoso&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20%7C%20Criador%20%7C%20Visionário&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- Digitação animada -->
+<!-- Digitação animada (emojis e acentos 100% URL-encoded) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=560&lines=Mais+conhecido+como+Xikreti+%F0%9F%98%8E;Construindo+o+futuro+com+código+✨;Design+que+encanta+👁️;Web3+%26+Blockchain+Developer+🔗;Vamos+criar+algo+incrível+juntos+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=560&lines=Mais+conhecido+como+Xikreti+%F0%9F%98%8E;Construindo+o+futuro+com+c%C3%B3digo+%E2%9C%A8;Design+que+encanta+%F0%9F%91%81;Web3+%26+Blockchain+Developer+%F0%9F%94%97;Vamos+criar+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Web3-Blockchain%20Dev-orange?style=for-the-badge&logo=ethereum&logoColor=white&color=F59E0B"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Café-Necessário-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white&color=6D28D9"/>
+  <img src="https://img.shields.io/badge/Caf%C3%A9-Necess%C3%A1rio-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white&color=6D28D9"/>
 </div>
 
 <br/>
@@ -41,6 +41,28 @@ const thales = {
   funFact:        "Personalizo até o Windows para parecer macOS 🍎"
 };
 ```
+
+<br/>
+
+## 📊 Minhas Contribuições & Commits
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xikreti&theme=tokyonight&bg_color=1A1B26&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xikreti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=A855F7"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xikreti&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="streak stats"/>
+</div>
 
 <br/>
 
@@ -66,24 +88,6 @@ const thales = {
 ### 🛠️ Ferramentas & Ambiente
 <img src="https://skillicons.dev/icons?i=vscode,git,github,electron,figma,linux,docker,vite&perline=8&theme=dark"/>
 
-</div>
-
-<br/>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xikreti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=A855F7"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xikreti&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="streak stats"/>
 </div>
 
 <br/>
