@@ -47,7 +47,7 @@ const thales = {
 ## 📊 Minhas Contribuições & Commits
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xikreti&theme=tokyonight&bg_color=1A1B26&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/Xikreti" alt="Contribuições do Xikreti" width="100%"/>
 </div>
 
 <br/>
