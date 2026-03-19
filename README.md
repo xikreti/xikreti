@@ -52,13 +52,7 @@ const thales = {
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xikreti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=A855F7"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xikreti&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7"/>
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="streak stats"/>
