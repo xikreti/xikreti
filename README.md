@@ -46,23 +46,16 @@ const thales = {
 
 ## ⚡ Minhas Contribuições & Commits
 
-<!-- Calendário de Contribuições em Dark Mode (Sem quadrados brancos) -->
+<!-- Gráfico Dinâmico de Atividades de Commits (Dark Tokyonight) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/report/contribution-calendar?username=Xikreti&theme=tokyonight" alt="Calendário de Contribuições" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xikreti&theme=tokyonight&bg_color=0D1117&color=A855F7&line=7C3AED&point=38BDF8&area=true&hide_border=true" alt="Gráfico de Atividades do Xikreti" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Gráfico Dinâmico de Atividade Neon -->
+<!-- Streak Stats de Sequência de Commits -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xikreti&theme=tokyonight&bg_color=0D1117&color=A855F7&line=7C3AED&point=38BDF8&area=true&hide_border=true" alt="Gráfico de Atividade" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Streak Stats com Moldura Neon Purple -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="Streak Stats do Xikreti"/>
 </div>
 
 <br/>
