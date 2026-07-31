@@ -44,35 +44,18 @@ const thales = {
 
 <br/>
 
-## 🎮 Minhas Contribuições & Commits (Retro Arcade Edition)
+## 📊 Minhas Contribuições & Commits
 
-<!-- Jogo Retro de Commits Nativo (Snake Animation) -->
 <div align="center">
-  <p align="center">
-    <b>👾 Retro Commit Snake — A nave/cobra devorando meus commits em tempo real!</b>
-  </p>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xikreti/Xikreti/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xikreti/Xikreti/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Commit Game" src="https://raw.githubusercontent.com/Xikreti/Xikreti/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://ghchart.rshah.org/Xikreti" alt="Contribuições do Xikreti" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Gráfico de Atividade Dinâmico -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xikreti&theme=tokyonight&bg_color=0D1117&color=A855F7&line=7C3AED&point=38BDF8&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
 
-<br/>
 
-<!-- Stats & Streaks Emparelhados -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="Streak Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Xikreti&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A855F7&icon_color=38BDF8&hide=issues,prs" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="streak stats"/>
 </div>
 
 <br/>
