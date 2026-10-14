@@ -7,10 +7,10 @@
   </a>
 </div>
 <br><br>
-<h2>⚡ Minhas Contribuições &amp; Commits</h2>
+<h2 align="left">⚡ Minhas Contribuições &amp; Commits</h2>
 <img src="./assets/contributions.svg" width="860" alt="Calendário animado de contribuições de Xikreti" />
 <br><br>
-<h2>🌌 Sobre mim</h2>
+<h2 align="left">🌌 Sobre mim</h2>
 <table><tr>
 <td valign="top"><img src="./assets/portrait.svg" width="420" alt="Retrato ASCII animado de Thales Cardoso, usando sua foto do GitHub" /></td>
 <td valign="top"><img src="./assets/stats.svg" width="420" alt="Estatísticas animadas de contribuições de Xikreti" /></td>
@@ -22,7 +22,7 @@
 <br><br>
 </div>
 
-### 📋 Informações pessoais
+<h3 align="left">📋 Informações pessoais</h3>
 
 ```typescript
 const thales = {
@@ -46,20 +46,20 @@ const thales = {
 
 
 
-## 🛸 Stack de Tecnologias
+<h2 align="left">🛸 Stack de Tecnologias</h2>
 
 <div align="center">
 
-### 🎨 Front-end
+<h3 align="left">🎨 Front-end</h3>
 <img src="./assets/stack-front.svg" alt="html,css,js,ts,react,nextjs,tailwind,sass"/>
 
-### ⚙️ Back-end & DB
+<h3 align="left">⚙️ Back-end & DB</h3>
 <img src="./assets/stack-back.svg" alt="nodejs,python,supabase,postgres,mongodb,prisma,rust"/>
 
-### 🔗 Web3 & Blockchain
+<h3 align="left">🔗 Web3 & Blockchain</h3>
 <img src="./assets/stack-web3.svg" alt="Solidity, Bitcoin, Ethereum"/>
 
-### 🛠️ Ferramentas & Ambiente
+<h3 align="left">🛠️ Ferramentas & Ambiente</h3>
 <img src="./assets/stack-tools.svg" alt="vscode,git,github,electron,figma,linux,docker,vite"/>
 
 </div>
@@ -68,7 +68,7 @@ const thales = {
 
 ---
 
-## 🏆 Troféus
+<h2 align="left">🏆 Troféus</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xikreti&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
@@ -78,7 +78,7 @@ const thales = {
 
 ---
 
-## 🌐 Onde me encontrar
+<h2 align="left">🌐 Onde me encontrar</h2>
 
 <div align="center">
 
