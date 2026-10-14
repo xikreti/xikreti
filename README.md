@@ -1,37 +1,36 @@
-<!-- Cabeçalho animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thales%20Cardoso&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20%7C%20Criador%20%7C%20Visionário&descAlignY=55&descSize=18" width="100%"/>
-</div>
-
-<!-- Digitação animada (emojis e acentos 100% URL-encoded) -->
+<img src="./assets/header.svg" width="100%"/>
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=560&lines=Mais+conhecido+como+Xikreti+%F0%9F%98%8E;Construindo+o+futuro+com+c%C3%B3digo+%E2%9C%A8;Design+que+encanta+%F0%9F%91%81;Web3+%26+Blockchain+Developer+%F0%9F%94%97;Vamos+criar+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="./assets/typing.svg" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
-
-<!-- Badges de status -->
+<br><br>
+<img src="./assets/contributions.svg" width="860" alt="Calendário animado de contribuições de Xikreti" />
+<br><br>
+<h3><code>xikreti@github ~ $ whoami</code></h3>
+<table><tr>
+<td valign="top"><img src="./assets/portrait.svg" width="420" alt="Retrato ASCII animado de Thales Cardoso, usando sua foto do GitHub" /></td>
+<td valign="top"><img src="./assets/stats.svg" width="420" alt="Estatísticas animadas de contribuições de Xikreti" /></td>
+</tr></table>
+<br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Codando%20agora-success?style=for-the-badge&logo=statuspage&logoColor=white&color=7C3AED"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack-blue?style=for-the-badge&logo=rocket&logoColor=white&color=A855F7"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Web3-Blockchain%20Dev-orange?style=for-the-badge&logo=ethereum&logoColor=white&color=F59E0B"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Caf%C3%A9-Necess%C3%A1rio-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white&color=6D28D9"/>
+<img src="./assets/status.svg" width="860" alt="Status: Codando agora · Foco: Full Stack · Web3: Blockchain Dev · Café: Necessário" />
+</div>
+<br><br>
 </div>
 
-<br/>
-
----
-
-## 🌌 Sobre mim
+### <code>xikreti@github ~ $ cat about.ts</code>
 
 ```typescript
 const thales = {
   apelido:        "Xikreti 😎",
+  nome:           "Thales Cardoso",
+  cidade:         "Divinópolis MG",
+  empresa:        "Owner Tayrus",
+  status:         "Codando agora",
+  café:           "Necessário",
   localização:    "Brasil 🇧🇷",
   função:         "Desenvolvedor Full Stack & Web3",
   missão:         "Transformar ideias em experiências digitais",
@@ -44,43 +43,23 @@ const thales = {
 
 <br/>
 
-## ⚡ Minhas Contribuições & Commits
 
-<!-- Gráfico Dinâmico de Atividades de Commits (Dark Tokyonight) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xikreti&theme=tokyonight&bg_color=0D1117&color=A855F7&line=7C3AED&point=38BDF8&area=true&hide_border=true" alt="Gráfico de Atividades do Xikreti" width="100%"/>
-</div>
 
-<br/>
-
-<!-- Streak Stats de Sequência de Commits -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikreti&theme=tokyonight&border=7C3AED&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="Streak Stats do Xikreti"/>
-</div>
-
-<br/>
-
----
-
-## 🛸 Stack de Tecnologias
+### <code>xikreti@github ~ $ ./stack.sh</code>
 
 <div align="center">
 
 ### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&perline=8&theme=dark"/>
+<img src="./assets/stack-front.svg" alt="html,css,js,ts,react,nextjs,tailwind,sass"/>
 
 ### ⚙️ Back-end & DB
-<img src="https://skillicons.dev/icons?i=nodejs,python,supabase,postgres,mongodb,prisma,rust&perline=8&theme=dark"/>
+<img src="./assets/stack-back.svg" alt="nodejs,python,supabase,postgres,mongodb,prisma,rust"/>
 
 ### 🔗 Web3 & Blockchain
-<img src="https://skillicons.dev/icons?i=solidity&perline=8&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="./assets/stack-web3.svg" alt="Solidity, Bitcoin, Ethereum"/>
 
 ### 🛠️ Ferramentas & Ambiente
-<img src="https://skillicons.dev/icons?i=vscode,git,github,electron,figma,linux,docker,vite&perline=8&theme=dark"/>
+<img src="./assets/stack-tools.svg" alt="vscode,git,github,electron,figma,linux,docker,vite"/>
 
 </div>
 
@@ -88,7 +67,7 @@ const thales = {
 
 ---
 
-## 🏆 Troféus
+### <code>xikreti@github ~ $ ./achievements.sh</code>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xikreti&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
@@ -98,14 +77,14 @@ const thales = {
 
 ---
 
-## 🌐 Onde me encontrar
+### <code>xikreti@github ~ $ ./socials.sh</code>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xikreti/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xikretii/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@xikreti)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/3rkJ3Wnc47e1ZHi6Q3UhMx?si=3xZBJpb3RbySeWtJZZCkNw)
+[![LinkedIn](./assets/link-linkedin.svg)](https://www.linkedin.com/in/xikreti/)
+[![Instagram](./assets/link-instagram.svg)](https://www.instagram.com/xikretii/)
+[![TikTok](./assets/link-tiktok.svg)](https://www.tiktok.com/@xikreti)
+[![Spotify](./assets/link-spotify.svg)](https://open.spotify.com/intl-pt/artist/3rkJ3Wnc47e1ZHi6Q3UhMx?si=3xZBJpb3RbySeWtJZZCkNw)
 
 </div>
 
@@ -125,5 +104,5 @@ const thales = {
 
 <!-- Rodapé animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%"/>
 </div>

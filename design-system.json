@@ -1,0 +1,11 @@
+{
+  "name": "Xikreti Green Terminal",
+  "colors": {
+    "background": "#080F0C", "surface": "#0D1913", "raised": "#14271D",
+    "border": "#294B38", "primary": "#22C55E", "highlight": "#4ADE80",
+    "deep": "#166534", "text": "#E8F5EC", "muted": "#A3B8AB"
+  },
+  "radius": {"panel": 12, "tile": 10, "badge": 4},
+  "spacing": [4,8,12,16,24,32,48],
+  "motion": {"entrance_seconds": 0.8, "stagger_seconds": 0.18, "portrait_seconds": 5.8}
+}
