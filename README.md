@@ -50,16 +50,16 @@ const thales = {
 
 <div align="center">
 
-<h3 align="left">🎨 Front-end</h3>
+<h3 align="center">🎨 Front-end</h3>
 <img src="./assets/stack-front.svg" alt="html,css,js,ts,react,nextjs,tailwind,sass"/>
 
-<h3 align="left">⚙️ Back-end & DB</h3>
+<h3 align="center">⚙️ Back-end & DB</h3>
 <img src="./assets/stack-back.svg" alt="nodejs,python,supabase,postgres,mongodb,prisma,rust"/>
 
-<h3 align="left">🔗 Web3 & Blockchain</h3>
+<h3 align="center">🔗 Web3 & Blockchain</h3>
 <img src="./assets/stack-web3.svg" alt="Solidity, Bitcoin, Ethereum"/>
 
-<h3 align="left">🛠️ Ferramentas & Ambiente</h3>
+<h3 align="center">🛠️ Ferramentas & Ambiente</h3>
 <img src="./assets/stack-tools.svg" alt="vscode,git,github,electron,figma,linux,docker,vite"/>
 
 </div>
