@@ -7,9 +7,10 @@
   </a>
 </div>
 <br><br>
+<h2>⚡ Minhas Contribuições &amp; Commits</h2>
 <img src="./assets/contributions.svg" width="860" alt="Calendário animado de contribuições de Xikreti" />
 <br><br>
-<h3><code>xikreti@github ~ $ whoami</code></h3>
+<h2>🌌 Sobre mim</h2>
 <table><tr>
 <td valign="top"><img src="./assets/portrait.svg" width="420" alt="Retrato ASCII animado de Thales Cardoso, usando sua foto do GitHub" /></td>
 <td valign="top"><img src="./assets/stats.svg" width="420" alt="Estatísticas animadas de contribuições de Xikreti" /></td>
@@ -21,7 +22,7 @@
 <br><br>
 </div>
 
-### <code>xikreti@github ~ $ cat about.ts</code>
+### 📋 Informações pessoais
 
 ```typescript
 const thales = {
@@ -45,7 +46,7 @@ const thales = {
 
 
 
-### <code>xikreti@github ~ $ ./stack.sh</code>
+## 🛸 Stack de Tecnologias
 
 <div align="center">
 
@@ -67,7 +68,7 @@ const thales = {
 
 ---
 
-### <code>xikreti@github ~ $ ./achievements.sh</code>
+## 🏆 Troféus
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xikreti&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
@@ -77,7 +78,7 @@ const thales = {
 
 ---
 
-### <code>xikreti@github ~ $ ./socials.sh</code>
+## 🌐 Onde me encontrar
 
 <div align="center">
 
