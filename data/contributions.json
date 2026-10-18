@@ -1,41 +1,6 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "days": [
-    {
-      "date": "2025-10-12",
-      "level": 2,
-      "count": 4
-    },
-    {
-      "date": "2025-10-13",
-      "level": 3,
-      "count": 5
-    },
-    {
-      "date": "2025-10-14",
-      "level": 2,
-      "count": 4
-    },
-    {
-      "date": "2025-10-15",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-10-16",
-      "level": 2,
-      "count": 3
-    },
-    {
-      "date": "2025-10-17",
-      "level": 3,
-      "count": 5
-    },
-    {
-      "date": "2025-10-18",
-      "level": 2,
-      "count": 4
-    },
     {
       "date": "2025-10-19",
       "level": 2,
@@ -1855,11 +1820,16 @@
       "date": "2026-10-17",
       "level": 0,
       "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "level": 0,
+      "count": 0
     }
   ],
   "username": "xikreti",
-  "total_contributions": 644,
-  "active_days": 208,
+  "total_contributions": 618,
+  "active_days": 201,
   "avg_per_active_day": 3.1,
   "current_streak": {
     "length": 0,
@@ -1867,8 +1837,8 @@
     "end": null
   },
   "longest_streak": {
-    "length": 150,
-    "start": "2025-10-12",
+    "length": 143,
+    "start": "2025-10-19",
     "end": "2026-03-10"
   },
   "best_day": {
@@ -1879,7 +1849,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 66
+      "total": 40
     },
     {
       "month": "2025-11",
@@ -1931,7 +1901,7 @@
     }
   ],
   "range": {
-    "start": "2025-10-12",
-    "end": "2026-10-17"
+    "start": "2025-10-19",
+    "end": "2026-10-18"
   }
 }
